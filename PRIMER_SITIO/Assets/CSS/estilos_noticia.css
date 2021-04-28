@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); 
+
+
+h1 {color:white; font-family: 'Playfair Display', serif;
+    font-weight: 900; 
+font-size: 48px; background-color: black; padding-left: 10px; padding-right: 15px;padding-bottom: 20px;padding-top: 20px; text-align:justify; border-bottom:white solid 15px;}  
+
+h2 {color:black;font-family: 'Playfair Display', serif; font-weight: bold;font-size: 20px; background-color:gray;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;padding-top: 20px; text-align: justify;border-bottom: black solid 10px}
+
+h3 {font-family: 'Playfair Display',serif; font-weight:bolder; font-size: 24px;border-bottom: black solid 4px;}
+
+h4 {font-family: 'Playfair Display',serif; font-weight:bolder; font-size: 24px;border-bottom: black solid 4px}
+
+h5 {font-family: 'Playfair Display',serif; font-weight:bolder; font-size: 24px;border-bottom: black solid 4px}
+
+p {color:black; font-weight:500; font-size: 20px ;padding-left: 30px; padding-right: 50px; padding-top: 20px;text-align:justify;}
+
+blockquote {color:black; font-weight:600; font-size: 20px; border-left:black 5px solid; width: 1100px; padding-left: 20px;text-align: justify;}
+
+body {background-image: url(../imagen/patron_vaquita.jpg);background-repeat: no-repeat; background-size: cover; background-position: center; margin: 20px; padding: 15px;
+background-color: black;}
+
+
+#envoltorio_principal {background-color:lightgrey; width: 70%; padding: 30px; margin-top: 25px; margin-right: auto; margin-bottom: 0px; 
+    margin-left: auto; border-radius: 10px;}
+
+.imagen_1 {width: 400px;padding: 1px; margin: 1px;  float:right; margin-top: 20px;padding-left: 10px;}
+.imagen_2 {width: 1200px; height: 800px;border:black solid 20px}
+.imagen_3 {width: 1200px; height: 800px;border:black solid 20px}
+.imagen_4 {width: 200; height: 500px;border:black solid 20px}
+.imagen_5 {width: 200; height: 400px;border:black solid 20px}
+
+
